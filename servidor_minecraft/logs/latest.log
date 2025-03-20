@@ -1,0 +1,50 @@
+[03:19:39] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[03:19:40] [ServerMain/INFO]: No existing world data, creating new world
+[03:19:41] [ServerMain/INFO]: Loaded 1337 recipes
+[03:19:41] [ServerMain/INFO]: Loaded 1448 advancements
+[03:19:41] [Server thread/INFO]: Starting minecraft server version 1.21.3
+[03:19:41] [Server thread/INFO]: Loading properties
+[03:19:41] [Server thread/INFO]: Default game type: SURVIVAL
+[03:19:41] [Server thread/INFO]: Generating keypair
+[03:19:41] [Server thread/INFO]: Starting Minecraft server on *:25565
+[03:19:41] [Server thread/INFO]: Using epoll channel type
+[03:19:41] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[03:19:41] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[03:19:41] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[03:19:41] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[03:19:41] [Server thread/INFO]: Preparing level "world"
+[03:19:48] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[03:19:48] [Worker-Main-3/INFO]: Preparing spawn area: 2%
+[03:19:48] [Worker-Main-3/INFO]: Preparing spawn area: 2%
+[03:19:49] [Worker-Main-2/INFO]: Preparing spawn area: 2%
+[03:19:49] [Worker-Main-2/INFO]: Preparing spawn area: 2%
+[03:19:50] [Worker-Main-2/INFO]: Preparing spawn area: 18%
+[03:19:50] [Worker-Main-1/INFO]: Preparing spawn area: 18%
+[03:19:51] [Worker-Main-3/INFO]: Preparing spawn area: 22%
+[03:19:51] [Worker-Main-3/INFO]: Preparing spawn area: 51%
+[03:19:52] [Worker-Main-3/INFO]: Preparing spawn area: 51%
+[03:19:52] [Worker-Main-1/INFO]: Preparing spawn area: 51%
+[03:19:52] [Server thread/INFO]: Time elapsed: 4615 ms
+[03:19:52] [Server thread/INFO]: Done (11.210s)! For help, type "help"
+[03:20:52] [Server thread/INFO]: Server empty for 60 seconds, pausing
+[03:21:07] [Server thread/INFO]: X_xgermox_X[/100.73.9.7:51236] logged in with entity id 13 at (8.5, 70.0, -8.5)
+[03:21:07] [Server thread/INFO]: X_xgermox_X joined the game
+[03:22:07] [Server thread/INFO]: Danzzler[/100.126.36.23:52980] logged in with entity id 454 at (-1.5, 69.0, 6.5)
+[03:22:07] [Server thread/INFO]: Danzzler joined the game
+[03:22:12] [Server thread/INFO]: [Not Secure] <Danzzler> finalmente
+[03:22:31] [Server thread/INFO]: [Not Secure] <Danzzler> rapido
+[03:22:36] [Server thread/INFO]: [Not Secure] <Danzzler> Faggy Waggy o Niggy Wiggy
+[03:22:47] [Server thread/INFO]: [Not Secure] <X_xgermox_X> q
+[03:23:14] [Server thread/INFO]: Danzzler has made the advancement [Stone Age]
+[03:23:22] [Server thread/INFO]: Danzzler has made the advancement [Getting an Upgrade]
+[03:23:35] [Server thread/INFO]: X_xgermox_X has made the advancement [Stone Age]
+[03:24:24] [Server thread/INFO]: X_xgermox_X has made the advancement [Getting an Upgrade]
+[03:24:30] [Server thread/INFO]: [Not Secure] <Danzzler> mano que semilla de mierda
+[03:26:17] [Server thread/INFO]: [Not Secure] <X_xgermox_X> yahora
+[03:26:25] [Server thread/INFO]: [Not Secure] <Danzzler> me voy a speedrunear esta mondÁ
+[03:26:29] [Server thread/INFO]: [Not Secure] <Danzzler> pq estoy bellaco
+[03:26:53] [Server thread/INFO]: [Not Secure] <Danzzler> coroné
+[03:27:07] [Server thread/INFO]: Danzzler has made the advancement [Ice Bucket Challenge]
+[03:29:14] [Server thread/INFO]: [Not Secure] <Danzzler> ontai bby
+[03:29:21] [Server thread/INFO]: [Not Secure] <X_xgermox_X> atra
+[03:29:23] [Server thread/INFO]: [Not Secure] <X_xgermox_X> tuyo
